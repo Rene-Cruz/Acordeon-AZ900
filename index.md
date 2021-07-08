@@ -1,6 +1,6 @@
 ## Acordeón AZ-900
 
-You can use the [editor on GitHub](https://github.com/Rene-Cruz/Acordeon-AZ900/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hola, Bienvenido a nuestro acordeón del Summer Cloud, viajero, espero que te lleves muchos conocimientos de nuestro repositorio. Esperamos que te sea muy funcional tanto como a nosotros nos llevó el hecho de desarrollar este repositorio.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
