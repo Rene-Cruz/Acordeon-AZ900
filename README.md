@@ -1,10 +1,9 @@
 # Acordeon-AZ900
+![image](https://user-images.githubusercontent.com/83837155/125176919-2b72f000-e19d-11eb-8f9f-c239aeefdef1.png)
 
 Se subiran nuevos conceptos mediante vayamos avanzando en el curso.
 
-![image](https://user-images.githubusercontent.com/83837155/125176919-2b72f000-e19d-11eb-8f9f-c239aeefdef1.png)
-
-Module 1
+# Module 1
 
 ¿Qué es azure?
 
@@ -18,22 +17,26 @@ Los recursos informaticos son de uso exclusivo de los usuarios de una empreza u 
 
 ![image](https://user-images.githubusercontent.com/83837155/125177375-cd480c00-e1a0-11eb-953f-51dd6d362434.png)
 
-Module 2
+Nube publica
+
+Los servicios se ofrecen atravez de la red de internet 
+
+# Module 2
 
 ¡¡Proximamente...!!
 
-Module 3
+# Module 3
 
 ¡¡Proximamente...!!
 
-Module 4
+# Module 4
 
 ¡¡Proximamente...!!
 
-Module 5 
+# Module 5 
 
 ¡¡Proximamente...!!
 
-Module 6
+# Module 6
 
 ¡¡Proximamente...!!
