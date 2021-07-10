@@ -6,7 +6,7 @@ Hola, Bienvenido a nuestro acordeón del Summer Cloud, viajero, espero que te ll
 
 ### Módulo 1 --> Descripción de los conceptos básicos de Azure
 
-##Módulos de Microsoft Learn (Challenge)
+Módulos de Microsoft Learn (Challenge)
 
 ##Contenidos
 
