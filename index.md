@@ -22,12 +22,12 @@ Hola, Bienvenido a nuestro acordeón del Summer Cloud, viajero, espero que te ll
 #### 4. Exploración de los Servicios de análisis y Bases de Datos de Azure
 
 # Semana 3 | Módulo 3
-### - Parte 3
+### * Parte 3
   ### Descripción de las principales soluciones y herramientas de administración de Azure
-### - Parte 4
+### * Parte 4
   ### Descripción de las características de seguridad general y de seguridad de red
 
-#### - Parte 3
+#### * Parte 3
   #### 1. Elegir el mejor servicio de Azure IoT para su aplicación
   #### 2. Elije el mejor servicio de IA para sus necesidades
   #### 3. Elección de la mejor tecnología sin servidor de Azure para su escenario empresarial
@@ -40,17 +40,17 @@ Hola, Bienvenido a nuestro acordeón del Summer Cloud, viajero, espero que te ll
 
 
 # Semana 4 | Módulo 4
-### - Parte 5
+### * Parte 5
   ### Descripción de las características de identidad, gobernanza, privacidad y cumplimiento
-### - Parte 6
+### * Parte 6
   ### Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
 
-#### - Parte 5
+#### * Parte 5
   #### Acceso seguro de las aplicaciones con servicios de Identidad de Azure
   #### Creación de una estrategia de gobernanza en la nube de Azure
   #### Examine los estándares de privacidad, cumplimiento y protección de datos en Azure
 
-#### - Parte 6
+#### * Parte 6
   #### Planeación y administración de los costos de Azure
   #### Elección de los servicios de Azure adecuados según los acuerdos de nivel de servicios y el ciclo de vida del servicio
 
