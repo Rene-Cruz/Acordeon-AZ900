@@ -75,7 +75,7 @@ Syntax highlighted code block
 
 ### Contacto
 
-[Facebook](https://www.facebook.com/rene.cruz01233)
-Número de contacto: +52 7291076955
-[Instagram](https://www.instagram.com/mayhrem/)
+[Facebook](https://www.facebook.com/rene.cruz01233) \n
+Número de contacto: +52 7291076955 \n
+[Instagram](https://www.instagram.com/mayhrem/) \n
 
