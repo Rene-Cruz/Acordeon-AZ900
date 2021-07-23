@@ -5,35 +5,35 @@ Hola, Bienvenido a nuestro acordeón del Summer Cloud, viajero, espero que te ll
 # Semana 1 | Módulo 1
 ### Descripción de los conceptos básicos de Azure
 
-#### 1. Introducción a los aspectos Básicos de Azure
-#### 2. Conceptos Fundamentales de Azure
-#### 3. Descripción de los Componentes principales de la Arquitectura de Azure
+1. Introducción a los aspectos Básicos de Azure
+2. Conceptos Fundamentales de Azure
+3. Descripción de los Componentes principales de la Arquitectura de Azure
 
 # Semana 2 | Módulo 2
 ### Aspectos básicos de Azure - parte 2
 ### Descripción de los Servicios básicos de Azure
 
-#### 1. Exploración de los Servicios de Azure Compute
-#### 2. Exploración de los Servicios de red de Azure
-#### 3. Ecploración de los Servicios de Azure storage
-#### 4. Exploración de los Servicios de análisis y Bases de Datos de Azure
+1. Exploración de los Servicios de Azure Compute
+2. Exploración de los Servicios de red de Azure
+3. Ecploración de los Servicios de Azure storage
+4. Exploración de los Servicios de análisis y Bases de Datos de Azure
 
 # Semana 3 | Módulo 3
-### * Parte 3
-  ### Descripción de las principales soluciones y herramientas de administración de Azure
-### * Parte 4
-  ### Descripción de las características de seguridad general y de seguridad de red
+* Parte 3
+  * Descripción de las principales soluciones y herramientas de administración de Azure
+* Parte 4
+  * Descripción de las características de seguridad general y de seguridad de red
 
-#### * Parte 3
-  #### 1. Elegir el mejor servicio de Azure IoT para su aplicación
-  #### 2. Elije el mejor servicio de IA para sus necesidades
-  #### 3. Elección de la mejor tecnología sin servidor de Azure para su escenario empresarial
-  #### 4. Elección de las mejores herramientas para administrar y configurar el entorno de Azure
-  #### 5. Elección del mejor servicio de supervisión para visibilidad, información y mitigación de interrumpciones
+* Parte 3
+  * Elegir el mejor servicio de Azure IoT para su aplicación
+  * Elije el mejor servicio de IA para sus necesidades
+  * Elección de la mejor tecnología sin servidor de Azure para su escenario empresarial
+  * Elección de las mejores herramientas para administrar y configurar el entorno de Azure
+  * Elección del mejor servicio de supervisión para visibilidad, información y mitigación de interrumpciones
 
-#### * Parte 4
-  #### 1. Protección frente a amenazas de seguridad en Azure
-  #### 2. Conectividad de red segura en Azure
+* Parte 4
+  1. Protección frente a amenazas de seguridad en Azure
+  2. Conectividad de red segura en Azure
 
 # Semana 4 | Módulo 4
 ### * Parte 5
