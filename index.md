@@ -25,30 +25,30 @@ Hola, Bienvenido a nuestro acordeón del Summer Cloud, viajero, espero que te ll
   * Descripción de las características de seguridad general y de seguridad de red
 
 * Parte 3
-  * Elegir el mejor servicio de Azure IoT para su aplicación
-  * Elije el mejor servicio de IA para sus necesidades
-  * Elección de la mejor tecnología sin servidor de Azure para su escenario empresarial
-  * Elección de las mejores herramientas para administrar y configurar el entorno de Azure
-  * Elección del mejor servicio de supervisión para visibilidad, información y mitigación de interrumpciones
+  1. Elegir el mejor servicio de Azure IoT para su aplicación
+  2. Elije el mejor servicio de IA para sus necesidades
+  3. Elección de la mejor tecnología sin servidor de Azure para su escenario empresarial
+  4. Elección de las mejores herramientas para administrar y configurar el entorno de Azure
+  5. Elección del mejor servicio de supervisión para visibilidad, información y mitigación de interrumpciones
 
 * Parte 4
   1. Protección frente a amenazas de seguridad en Azure
   2. Conectividad de red segura en Azure
 
 # Semana 4 | Módulo 4
-### * Parte 5
-  ### Descripción de las características de identidad, gobernanza, privacidad y cumplimiento
-### * Parte 6
-  ### Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
+* Parte 5
+  * Descripción de las características de identidad, gobernanza, privacidad y cumplimiento
+* Parte 6
+  * Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
 
-#### * Parte 5
-  #### Acceso seguro de las aplicaciones con servicios de Identidad de Azure
-  #### Creación de una estrategia de gobernanza en la nube de Azure
-  #### Examine los estándares de privacidad, cumplimiento y protección de datos en Azure
+* Parte 5
+  1. Acceso seguro de las aplicaciones con servicios de Identidad de Azure
+  2. Creación de una estrategia de gobernanza en la nube de Azure
+  3. Examine los estándares de privacidad, cumplimiento y protección de datos en Azure
 
-#### * Parte 6
-  #### Planeación y administración de los costos de Azure
-  #### Elección de los servicios de Azure adecuados según los acuerdos de nivel de servicios y el ciclo de vida del servicio
+* Parte 6
+  1. Planeación y administración de los costos de Azure
+  2. Elección de los servicios de Azure adecuados según los acuerdos de nivel de servicios y el ciclo de vida del servicio
 
 * Item 1
 * Item 2
