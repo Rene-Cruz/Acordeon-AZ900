@@ -6,9 +6,10 @@ Hola, Bienvenido a nuestro acordeón del Summer Cloud, viajero, espero que te ll
 * Descripción de los conceptos básicos de Azure
 
 ### Contenido
-1. Introducción a los aspectos Básicos de Azure
-2. Conceptos Fundamentales de Azure
-3. Descripción de los Componentes principales de la Arquitectura de Azure
+1. [Introducción a los aspectos Básicos de Azure](https://docs.microsoft.com/es-mx/learn/modules/intro-to-azure-fundamentals/?WT.mc_id=cloudskillschallenge_9d729b5a-9842-4f33-a7e7-7e9c106005e1)
+2. [Resumen](https://view.genial.ly/60e8c3c98e36970d89590a63/presentation-capitulo-1-de-azure)
+3. Conceptos Fundamentales de Azure
+4. Descripción de los Componentes principales de la Arquitectura de Azure
 
 ## Semana 2 | Módulo 2
 * Aspectos básicos de Azure - parte 2
