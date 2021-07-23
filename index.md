@@ -3,15 +3,15 @@
 Hola, Bienvenido a nuestro acordeón del Summer Cloud, viajero, espero que te lleves muchos conocimientos de nuestro repositorio. Esperamos que te sea muy funcional tanto como a nosotros nos llevó el hecho de desarrollar este repositorio.
 
 # Semana 1 | Módulo 1
-### Descripción de los conceptos básicos de Azure
+* Descripción de los conceptos básicos de Azure
 
 1. Introducción a los aspectos Básicos de Azure
 2. Conceptos Fundamentales de Azure
 3. Descripción de los Componentes principales de la Arquitectura de Azure
 
 # Semana 2 | Módulo 2
-### Aspectos básicos de Azure - parte 2
-### Descripción de los Servicios básicos de Azure
+* Aspectos básicos de Azure - parte 2
+* Descripción de los Servicios básicos de Azure
 
 1. Exploración de los Servicios de Azure Compute
 2. Exploración de los Servicios de red de Azure
@@ -49,36 +49,6 @@ Hola, Bienvenido a nuestro acordeón del Summer Cloud, viajero, espero que te ll
 * Parte 6
   1. Planeación y administración de los costos de Azure
   2. Elección de los servicios de Azure adecuados según los acuerdos de nivel de servicios y el ciclo de vida del servicio
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-##Materiales
-
-### Módulo 2 --> Descripción de los servicios básicos de Azure
-
-##Módulos de Microsoft Learn (Challenge)
-
-##Contenidos
-
-##Materiales
-
-### Módulo 3 --> Descripción de las principales soluciones y herramientas de administración de Azure
-
-##Módulos de Microsoft Learn (Challenge)
-
-##Contenidos
-
-##Materiales
-
-### Módulo 4 --> Descripción de las características de seguridad general y seguridad de red
-
-##Módulos de Microsoft Learn (Challenge)
-
-##Contenidos
-
-##Materiales
 
 
 ```markdown
