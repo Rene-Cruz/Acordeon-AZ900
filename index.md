@@ -7,7 +7,7 @@ Hola, Bienvenido a nuestro acordeón del Summer Cloud, viajero, espero que te ll
 
 ### Contenido
 1. [Introducción a los aspectos Básicos de Azure](https://docs.microsoft.com/es-mx/learn/modules/intro-to-azure-fundamentals/?WT.mc_id=cloudskillschallenge_9d729b5a-9842-4f33-a7e7-7e9c106005e1) -> [Resumen](https://view.genial.ly/60e8c3c98e36970d89590a63/presentation-capitulo-1-de-azure),[mas material de resumen](https://view.genial.ly/610995a299edaf0d8e45adb3/presentation-introduccion-a-los-aspectos-basicos-de-la-nube)
-3. Conceptos Fundamentales de Azure
+3. [Conceptos Fundamentales de Azure](https://docs.microsoft.com/es-mx/learn/modules/fundamental-azure-concepts/?WT.mc_id=cloudskillschallenge_9d729b5a-9842-4f33-a7e7-7e9c106005e1&source=docs) ->  [Resumen](https://view.genial.ly/6109a5070c39c70dabaa836c/presentation-presentacion-genial)
 4. Descripción de los Componentes principales de la Arquitectura de Azure
 
 ## Semana 2 | Módulo 2
